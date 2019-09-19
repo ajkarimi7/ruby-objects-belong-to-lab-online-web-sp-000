@@ -1,1 +1,3 @@
-class Art
+class Artist
+  
+end 
